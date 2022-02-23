@@ -1,10 +1,10 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="wafer-fault",
+    name="wafer-fault-detection",
     version="0.0.3",
     description="ML project",
-    author="Irfan Razi, Avnish Yadav", 
+    author="Avnish yadav", 
     packages=find_packages(),
     license="MIT"
 )
